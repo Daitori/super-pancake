@@ -1,1 +1,1 @@
-print("Hello  afbhuiahdlfiholadhflahdlfhlasdhpoflsdnbgkjsbjkn")
+print("Conjecture de Syracuse")
