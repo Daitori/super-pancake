@@ -1,6 +1,3 @@
-from unittest import result
-
-
 print("Multiplication Egyptienne.\n Taper le nombre: ");
 num_mult=int(input());
 print("Taper le nombre: ");
