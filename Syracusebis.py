@@ -1,5 +1,5 @@
-print("Conjecture de Syracuse.\n Taper un nombre: ");
-num=int(input());
+NameFile=input("Conjecture de Syracuse.\nTaper le nom du fichier(avec extension): ")
+num;
 t=0;
 while t==0:
     print(num);
