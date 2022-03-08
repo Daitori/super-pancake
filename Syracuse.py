@@ -1,4 +1,4 @@
-print("Conjecture Syracuse.\n Taper un nombre: ");
+print("Conjecture de Syracuse.\n Taper un nombre: ");
 num=int(input());
 t=0;
 while t==0:

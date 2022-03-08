@@ -1,4 +1,4 @@
-print("Multiplication Egyptienne.\n Taper le nombre: ");
+print("Multiplication  Egyptienne.\n Taper le nombre: ");
 num_mult=int(input());
 print("Taper le nombre: ");
 num_fois=int(input());
